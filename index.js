@@ -151,10 +151,10 @@ console.log(`baby:`,baby);
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Principle 1
+  2. Principle 2
+  3. Principle 3
+  4. Principle 4
 */
 
 
