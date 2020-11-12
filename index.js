@@ -151,10 +151,10 @@ console.log(`baby:`,baby);
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. Principle 1
-  2. Principle 2
-  3. Principle 3
-  4. Principle 4
+  1. Principle 1 - Window Binding: If you use this without pointing to an object, it will give you the windows or console object. 
+  2. Principle 2 - Implicit Binding: If you use a dot to call a function, the object before the dot is this function.
+  3. Principle 3 - New Binding: When constructing a new object, use this to point to the object in which you are declaring the key. 
+  4. Principle 4 - Explicit binding: When you use the call or apply method, this is defined to that particular object that is pushed. 
 */
 
 
